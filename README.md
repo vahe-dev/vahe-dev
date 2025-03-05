@@ -1,19 +1,49 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.github.com/vahe-dev">
-      <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=vahe-dev&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+# 👨‍💻 Vahe Baghdasaryan – Senior Full Stack (PHP) Developer
+
+🚀 Passionate about developing efficient, well-documented, and scalable web solutions with over **7 years** of experience in **PHP**, **JavaScript**, and modern web technologies. I believe in writing clean, maintainable code and constantly exploring new, efficient technologies.
+
+## 🔥 About Me
+- **Tech Stack:** PHP, JavaScript, Laravel, Phalcon, CodeIgniter, Yii, React.js, Vue.js
+- **Databases:** SQL, MySQL
+- **Development Tools:** GitHub, GitLab, BitBucket, Docker, JIRA
+- **Server Management:** Apache, Nginx
+- **Agile Methodologies & Performance Optimization**
+
+📌 I am **results-oriented**, always striving to deliver high-quality software that meets business goals and user expectations. Whether working solo or in a team, I aim to **go the extra mile** for customer satisfaction.
+
+## 💡 What I Do
+✅ Full-Stack Web Development (Backend & Frontend)  
+✅ RESTful & SOAP API Integration  
+✅ eCommerce, CRM, and Business Solutions  
+✅ Payment Gateway & Online Transaction Integrations  
+✅ Performance Optimization & Debugging  
+
+## 💼 Notable Projects
+### [DoShopping](#)
+**Tech Stack:** HTML, CSS, JavaScript, Mendix  
+**Role:** Frontend Developer  
+✔ Implemented new features, API integrations, and an online payment system.
+
+### [Arazen](#)
+**Tech Stack:** PHP, Laravel, React.js, Node.js, MySQL  
+**Role:** Full Stack Developer  
+✔ Developed a tracking and monitoring platform with real-time updates.
+
+### [Alexander Litvin](#)
+**Tech Stack:** PHP, Laravel, MySQL, JavaScript  
+**Role:** Full Stack Developer  
+✔ Built an online shop & consultation service platform with multi-currency payments.
+
+### [Equilibre](#)
+**Tech Stack:** PHP, Laravel, MySQL, Vue.js  
+**Role:** Backend Developer  
+✔ Developed recruitment & management platform with interactive dashboards.
+
+## 📫 Contact Me
+- **Email:** vahebaghdasaryan.dev@gmail.com
+
+Let's connect and build something great together! 🚀
+
 
 ---
 
